@@ -77,12 +77,3 @@ DONE/BLOCKED/ERROR: {details}
 **Intelligence in prompts, coordination in commands.**
 
 Fresh context each task. Plan as persistent memory.
-
-## Writing Style
-
-Concise markdown. Every token counts.
-
-- Drop subjects/articles — `Read file` not `You should read the file`
-- Symbols — `→` (consequence), `|` (options), `CAPS:` (attention)
-- Imperatives, lists > prose
-- When planning — unresolved questions at end
