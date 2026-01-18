@@ -19,6 +19,14 @@ context: fork
 4. Consider project rules
 5. Clarify with AskUserQuestion if needed
 
+## Writing Style
+
+Concise markdown. Every token counts.
+
+- Drop subjects/articles — `Read file` not `You should read the file`
+- Symbols — `→` (result), `|` (or), `CAPS:` (attention)
+- Imperatives, lists > prose
+
 ## 3. Create Plan
 
 Write `.airflow/current/PLAN.md`:
