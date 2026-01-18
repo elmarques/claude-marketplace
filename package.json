@@ -1,0 +1,17 @@
+{
+  "name": "claude-marketplace",
+  "version": "0.1.0",
+  "description": "Claude Code plugins by El Marques",
+  "author": "El Marques",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elmarques/claude-marketplace"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.md'"
+  },
+  "devDependencies": {
+    "prettier": "*"
+  }
+}

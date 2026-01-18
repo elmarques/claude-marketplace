@@ -1,0 +1,16 @@
+{
+  "name": "elmarques-marketplace",
+  "description": "Claude Code plugins by El Marques",
+  "owner": {
+    "name": "El Marques",
+    "url": "https://github.com/elmarques"
+  },
+  "plugins": [
+    {
+      "name": "airflow",
+      "source": "./plugins/airflow",
+      "description": "Autonomous coding workflows with fresh context per task",
+      "version": "0.1.0"
+    }
+  ]
+}

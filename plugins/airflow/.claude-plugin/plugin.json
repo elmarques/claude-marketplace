@@ -1,0 +1,11 @@
+{
+  "name": "airflow",
+  "version": "0.1.0",
+  "description": "Autonomous coding workflow inspired by Ralph Wiggum technique. Plan, build, review, and archive with fresh context per task.",
+  "author": {
+    "name": "El Marques"
+  },
+  "homepage": "https://github.com/elmarques/claude-marketplace/tree/main/plugins/airflow",
+  "repository": "https://github.com/elmarques/claude-marketplace",
+  "license": "MIT"
+}
