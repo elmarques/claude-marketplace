@@ -10,7 +10,7 @@
       "name": "airflow",
       "source": "./plugins/airflow",
       "description": "Autonomous coding workflows with fresh context per task",
-      "version": "0.1.0"
+      "version": "0.2.0"
     }
   ]
 }
