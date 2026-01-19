@@ -1,5 +1,5 @@
 ---
-description: Show current Airflow workflow state.
+description: Show current Airflow workflow state
 ---
 
 # Status

@@ -1,5 +1,5 @@
 ---
-description: Archive completed plan and merge to base branch.
+description: Archive completed plan and merge to base branch
 ---
 
 # Archive

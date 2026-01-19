@@ -1,5 +1,5 @@
 ---
-description: Show Airflow usage guide.
+description: Show Airflow usage guide
 ---
 
 # Help

@@ -1,5 +1,5 @@
 ---
-description: Execute one task from plan with human oversight.
+description: Execute one task from plan with human oversight
 ---
 
 # Build

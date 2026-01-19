@@ -1,5 +1,5 @@
 ---
-description: Initialize Airflow in current project.
+description: Initialize Airflow in current project
 ---
 
 # Setup

@@ -1,5 +1,5 @@
 ---
-description: Create work plan for Airflow.
+description: Create work plan for Airflow
 argument-hint: [scope description]
 context: fork
 ---

@@ -1,5 +1,5 @@
 ---
-description: Code review before merge.
+description: Code review before merge
 argument-hint: "[staged | branch-name] (optional)"
 ---
 

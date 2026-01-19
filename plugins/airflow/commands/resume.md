@@ -1,5 +1,5 @@
 ---
-description: Resume an interrupted build.
+description: Resume an interrupted build
 ---
 
 # Resume

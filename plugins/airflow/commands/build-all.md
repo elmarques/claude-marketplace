@@ -1,5 +1,5 @@
 ---
-description: Autonomous build loop using developer agent.
+description: Autonomous build loop using developer agent
 ---
 
 # Build All
