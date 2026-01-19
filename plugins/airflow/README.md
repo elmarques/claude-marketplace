@@ -21,6 +21,12 @@ Result: consistent output even on 20+ task sessions.
 /plugin install airflow@elmarques-marketplace
 ```
 
+Then enable auto-updates to receive new versions automatically:
+
+```
+/plugin → Marketplaces → elmarques-marketplace → Enable auto-update
+```
+
 ### Local Development
 
 ```bash
