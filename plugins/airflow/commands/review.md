@@ -86,6 +86,11 @@ PROCESS:
 3. Commit with descriptive message
 4. Reusable gotcha → append to LEARNINGS.md
 
+WRITING STYLE (for LEARNINGS.md):
+- Concise — drop subjects/articles
+- Symbols — `→` (result), `|` (or), `CAPS:` (attention)
+- Imperatives, lists > prose
+
 CONSTRAINTS:
 - Only what was requested
 - Unclear fix → skip and report

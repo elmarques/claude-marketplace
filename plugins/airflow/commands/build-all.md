@@ -43,6 +43,11 @@ PROCESS:
 3. Mark task `- [x]`, add note: `YYYY-MM-DD: {slug} — {summary}`
 4. Commit with descriptive message
 
+WRITING STYLE (for PLAN.md and LEARNINGS.md):
+- Concise — drop subjects/articles
+- Symbols — `→` (result), `|` (or), `CAPS:` (attention)
+- Imperatives, lists > prose
+
 CONSTRAINTS:
 - One task only — stop after completing it
 - Only what task needs — no extras

@@ -27,6 +27,14 @@ Read `type` and `slug` from PLAN.md. Switch to `{prefix}{slug}` — resolve `{ty
 5. Mark `- [x]`, add note: `{date}: {slug} — summary`
 6. Commit
 
+## Writing Style
+
+Concise markdown. Every token counts.
+
+- Drop subjects/articles — `Read file` not `You should read the file`
+- Symbols — `→` (result), `|` (or), `CAPS:` (attention)
+- Imperatives, lists > prose
+
 ## Constraints
 
 - One task only
