@@ -83,7 +83,7 @@ check: <command> # e.g., npm run check, make lint, cargo check
 test: <command> # e.g., npm test, pytest, go test (optional)
 model: opus # opus (default) or sonnet
 branch:
-  prefix: airflow/
+  prefix: "{type}/"
   base: main
 ---
 ```
