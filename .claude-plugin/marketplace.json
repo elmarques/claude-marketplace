@@ -11,6 +11,12 @@
       "source": "./plugins/airflow",
       "description": "Autonomous coding workflows with fresh context per task",
       "version": "0.2.1"
+    },
+    {
+      "name": "airis",
+      "source": "./plugins/airis",
+      "description": "AI-native test runner. Markdown tests via agent-browser",
+      "version": "0.1.0"
     }
   ]
 }
