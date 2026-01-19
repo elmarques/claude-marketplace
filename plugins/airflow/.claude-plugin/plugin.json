@@ -1,6 +1,6 @@
 {
   "name": "airflow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Autonomous coding workflow inspired by Ralph Wiggum technique. Plan, build, review, and archive with fresh context per task.",
   "author": {
     "name": "El Marques"
