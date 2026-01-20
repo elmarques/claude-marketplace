@@ -37,7 +37,7 @@ Parse file:
 ## 3. Execute
 
 1. Tell user: "Running: {file name}..."
-2. Spawn: `Task(general-purpose, sonnet)` with prompt:
+2. Spawn: `Task(general-purpose)` with prompt:
 
 ```
 Execute test file via agent-browser.
