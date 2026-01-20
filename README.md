@@ -13,6 +13,7 @@ Claude Code plugins by El Marques.
 | Plugin                       | Description                                             |
 | ---------------------------- | ------------------------------------------------------- |
 | [airflow](./plugins/airflow) | Autonomous coding workflows with fresh context per task |
+| [airis](./plugins/airis)     | AI-native test runner. Markdown tests via agent-browser |
 
 ## Installing a Plugin
 
