@@ -8,6 +8,12 @@ Claude Code plugins by El Marques.
 /plugin marketplace add elmarques/claude-marketplace
 ```
 
+Then enable auto-updates to receive new versions automatically:
+
+```
+/plugin → Marketplaces → elmarques-marketplace → Enable auto-update
+```
+
 ## Available Plugins
 
 | Plugin                       | Description                                             |
@@ -21,6 +27,7 @@ After adding the marketplace:
 
 ```bash
 /plugin install airflow@elmarques-marketplace
+/plugin install airis@elmarques-marketplace
 ```
 
 ## License
